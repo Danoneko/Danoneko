@@ -1,4 +1,4 @@
-# Anastasia Merkulova - junior fronted
+# Anastasia Merkulova - junior frontend
 
 - 👋 Hi, gues! I'm just learning to develop on React. But I already have a couple of projects that you can look at.
 - 🔥 I have knowledge of HTML, CSS/CSS, Javascript and jQuery.
