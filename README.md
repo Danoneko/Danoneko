@@ -1,4 +1,9 @@
-### Hi there 👋
+# Anastasia Merkulova - junior fronted
+
+- 👋 Hi, gues! I'm just learning to develop on React. But I already have a couple of projects that you can look at.
+- 🔥 I have knowledge of HTML, CSS/CSS, Javascript and jQuery.
+- 🤔 I am currently studying JavaScript and TypeScript in depth.
+- 👀 I have a little experience in Docker and Git.
 
 <!--
 **Danoneko/danoneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
